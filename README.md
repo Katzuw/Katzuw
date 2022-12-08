@@ -4,30 +4,21 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Katzuw/Katzuw/main/jump.gif" align="center" height="" width="600" />
 </div>  
-  
 
-### <div align="center">Don't ask to ask, just ask!</div>  
-  
+### <div align="center">Don't ask to ask, just ask!</div>   
 
-- 🔭 I’m currently working on **Yuri Linux Project**  
-  
+- 🔭 I’m currently working on **Yuri Linux Project**   
 
 - 🌱 I’m currently learning **Well a lot of things, gonna update later tbh.**  
-  
-
+ 
 - ❓ Ask me about **Anything**  
   
-
 - ⚡ Fun fact **I use nano**  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### My fav <33  
 <div align="center">  
@@ -44,7 +35,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/katzuw" target="_blank">
@@ -53,22 +43,18 @@
 <a href="https://twitter.com/katzuww" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>   
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Katzuw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
 ## Nothing to say but.
 ## レーピア・ネバー・ルーゼズ  
   
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315ee7qh6rkuxwid7gewzp636kry&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" /></div>  
@@ -78,9 +64,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Katzuw&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
-
 
 <br />
