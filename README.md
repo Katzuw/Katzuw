@@ -10,7 +10,9 @@
 - 🔭 I’m currently working on **Yuri Linux Project**   
 
 - 🌱 I’m currently learning **Well a lot of things, gonna update later tbh.**  
- 
+
+- 📫 How to reach me **vrabeau33@gmail.com**
+
 - ❓ Ask me about **Anything**  
   
 - ⚡ Fun fact **I use nano**  
