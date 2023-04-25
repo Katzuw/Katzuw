@@ -1,22 +1,12 @@
 
 
-### Ohayo!  
+### Hello!  
 <div align="center">
 <img src="https://raw.githubusercontent.com/Katzuw/Katzuw/main/jump.gif" align="center" height="" width="600" />
 </div>  
 
 ### <div align="center">Don't ask to ask, just ask!</div>   
 
-- 🔭 I’m currently working on **Yuri Linux Project**   
-
-- 🌱 I’m currently learning **Well a lot of things, gonna update later tbh.**  
-
-- 📫 How to reach me **vrabeau33@gmail.com**
-
-- ❓ Ask me about **Anything**  
-  
-- ⚡ Fun fact **I use nano**  
-  
 <br/>  
 
 ## My Skill Set  
