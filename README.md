@@ -1,4 +1,3 @@
-### Hello!  
 <div align="center">
 <img src="https://raw.githubusercontent.com/Katzuw/Katzuw/main/jump.gif" align="center" height="" width="600" />
 </div>
